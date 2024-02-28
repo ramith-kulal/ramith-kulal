@@ -56,4 +56,4 @@
 <div align="center">
 </div>
 <div align="center">
-[![Image of https://github.com/ramith-kulal/my-profile-views-counter](https://github.com/ramith-kulal/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/ramith-kulal/my-profile-views-counter)
+![](https://komarev.com/ghpvc/?username=ramith-kulal&color=green)
