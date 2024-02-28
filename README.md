@@ -48,7 +48,6 @@
 [![](https://visitcount.itsvg.in/api?id=ramith-kulal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![Ramith kulals stats](https://github-readme-stats.vercel.app/api?username=ramith-kulal&show_icons=true&bg_color=00000000)
 
 ### My Github Stats 📊
 
@@ -56,6 +55,5 @@
 |---|---|
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramith-kulal&layout=compact&theme=midnight-purple)](https://github.com/ramith-kulal)
 </div>
 <div align="center">
