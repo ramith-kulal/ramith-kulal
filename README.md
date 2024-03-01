@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/princivershwal/" title="princivershwal" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/shecodingaddict/" title="shecodingaddict" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>
 -->
-### You can also find me on ...
+### You can find me on ...
 
 <a href="https://www.instagram.com/ramith_kulal/" title="ramith" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/ramith_kulal" target="_blank" title="ramith" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
