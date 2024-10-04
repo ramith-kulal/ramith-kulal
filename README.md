@@ -36,8 +36,6 @@
 <a href="https://twitter.com/ramith_kulal" target="_blank" title="ramith" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="mailto:ramithnr1234@gmail.com" target="_blank" title="mailto:ramithnr1234@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 
