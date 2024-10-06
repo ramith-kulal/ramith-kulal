@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Currently I am working with ...
+### Currently I am working with ... 
 
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Next.js" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/></a>&nbsp;&nbsp;
