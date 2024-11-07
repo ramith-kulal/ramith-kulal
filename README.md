@@ -2,7 +2,7 @@
 ### About Me 👨‍💻
 - 🌱 Web Dev Enthusiast: Focused on web development and open-source, with a solid grip on JavaScript, React, and Next.js.
 - 🏆 Top 10 at JWOC: Stood out in a sea of thousands with coding prowess!
-- 🏆 Winner of KIMO's-Edge' 24 Tech Competition and
+- 🏆 Winner of KIMO's-Edge' 24 Tech Competition
 - 🌐 Full-Stack Explorer: Dived into projects with Next.js, Node.js, and MongoDB for backend magic.
 - 💻 Languages? Versatile: Proficient in C++, C, JavaScript, with basics in Python and Java.
 ### Fun Facts 🎉
