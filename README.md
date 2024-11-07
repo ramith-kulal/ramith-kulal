@@ -8,7 +8,8 @@
 ### Fun Facts 🎉
 - 💬 Strong advocate for smart work over hard work (why lift when you can automate?).
 - Let's Connect 🚀
- If you're up for interesting projects or collaborations, feel free to reach out!
+
+If you're up for interesting projects or collaborations, feel free to reach out!
 
 ### Currently I am working with ... 
 
