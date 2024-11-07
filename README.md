@@ -1,14 +1,14 @@
 ### Hi there 👋
-About Me 👨‍💻
-🌱 Web Dev Enthusiast: Focused on web development and open-source, with a solid grip on JavaScript, React, and Next.js.
-🏆 Top 10 at JWOC: Stood out in a sea of thousands with coding prowess!
-🏆 Winner of KIMO's-Edge' 24 Tech Competition and
-🌐 Full-Stack Explorer: Dived into projects with Next.js, Node.js, and MongoDB for backend magic.
-💻 Languages? Versatile: Proficient in C++, C, JavaScript, with basics in Python and Java.
-Fun Facts 🎉
-💬 Strong advocate for smart work over hard work (why lift when you can automate?).
-Let's Connect 🚀
-If you're up for interesting projects or collaborations, feel free to reach out!
+### About Me 👨‍💻
+- 🌱 Web Dev Enthusiast: Focused on web development and open-source, with a solid grip on JavaScript, React, and Next.js.
+- 🏆 Top 10 at JWOC: Stood out in a sea of thousands with coding prowess!
+- 🏆 Winner of KIMO's-Edge' 24 Tech Competition and
+- 🌐 Full-Stack Explorer: Dived into projects with Next.js, Node.js, and MongoDB for backend magic.
+- 💻 Languages? Versatile: Proficient in C++, C, JavaScript, with basics in Python and Java.
+### Fun Facts 🎉
+- 💬 Strong advocate for smart work over hard work (why lift when you can automate?).
+- Let's Connect 🚀
+ If you're up for interesting projects or collaborations, feel free to reach out!
 
 ### Currently I am working with ... 
 
