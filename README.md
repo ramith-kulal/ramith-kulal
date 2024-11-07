@@ -59,9 +59,6 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=ramith-kulal&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramith-kulal&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
 |---|---|
 
-<div align="center">
-</div>
-<!-- //![](https://komarev.com/ghpvc/?username=ramith-kulal&color=green) -->
-<div align="center">
+
 
 [![](https://visitcount.itsvg.in/api?id=ramith-kulal&icon=0&color=0)](https://visitcount.itsvg.in)
