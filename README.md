@@ -7,9 +7,8 @@
 - 💻 Languages? Versatile: Proficient in C++, C, JavaScript, with basics in Python and Java.
 ### Fun Facts 🎉
 - 💬 Strong advocate for smart work over hard work (why lift when you can automate?).
-- Let's Connect 🚀
 
-If you're up for interesting projects or collaborations, feel free to reach out!
+Let's Connect 🚀 If you're up for interesting projects or collaborations, feel free to reach out!
 
 ### Currently I am working with ... 
 
