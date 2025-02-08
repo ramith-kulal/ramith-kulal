@@ -69,4 +69,4 @@ Let's Connect 🚀 If you're up for interesting projects or collaborations, feel
 
 
 
-[![](https://visitcount.itsvg.in/api?id=ramith-kulal&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=ramith-kulal)
