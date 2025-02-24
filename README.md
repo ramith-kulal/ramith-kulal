@@ -5,7 +5,7 @@
 - 🌐 Full-Stack Development: Experienced with Next.js, Node.js, and MongoDB for backend solutions.
 - 💻 Technical Skills: Strong in JavaScript; proficient in C++, C, with foundational knowledge of Python and Java.
 ### Fun Facts 🎉
-- 💬 Strong advocate for smart work over hard work (why lift when you can automate?).
+- Why do things the hard way when you can automate and simplify? (why lift when you can automate?).
 
 Let's Connect 🚀 If you're up for interesting projects or collaborations, feel free to reach out!
 
