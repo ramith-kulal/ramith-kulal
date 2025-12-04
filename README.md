@@ -42,7 +42,8 @@
 |---|---|
 
 ### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramith-kulal&layout=compact&theme=tokyonight&bg_color=151515" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramith-kulal&layout=compact&theme=tokyonight)
+
 
 ---
 
